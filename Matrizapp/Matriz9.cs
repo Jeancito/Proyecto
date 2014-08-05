@@ -32,7 +32,7 @@ namespace Matrizapp
 
             sueldostotal = new int[4];
             for (int i = 0; i < sueldostotal.GetLength(0);i++ ) {
-                Console.WriteLine("Total de sueldos pagados por empleado : ");
+                Console.WriteLine("Total de sueldos pagados por empleado Jean se la come: ");
                 for (int j = 0; j < sueldos.GetLength(1); j++) {
                     suma = suma = sueldos[i, j];             
                 }

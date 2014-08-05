@@ -4,3 +4,6 @@ C:\Users\Jean CE\Desktop\C#\Matrizapp\Matrizapp\bin\Debug\Matrizapp.pdb
 C:\Users\Jean CE\Desktop\C#\Matrizapp\Matrizapp\obj\Debug\Matrizapp.csprojResolveAssemblyReference.cache
 C:\Users\Jean CE\Desktop\C#\Matrizapp\Matrizapp\obj\Debug\Matrizapp.exe
 C:\Users\Jean CE\Desktop\C#\Matrizapp\Matrizapp\obj\Debug\Matrizapp.pdb
+C:\Sites\Proyecto\Matrizapp\bin\Debug\Matrizapp.exe.config
+C:\Sites\Proyecto\Matrizapp\obj\Debug\Matrizapp.exe
+C:\Sites\Proyecto\Matrizapp\obj\Debug\Matrizapp.pdb
